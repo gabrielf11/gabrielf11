@@ -1,1 +1,1 @@
-Hello, I'm @GabrielF11 on Scratch
+Hello! Welcome to my Github thing (:
