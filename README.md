@@ -1,6 +1,6 @@
-Hello! Welcome to my Github thing (:
+# Hello! Welcome to my Github thing (:
 
-Links:
+## Links:
 
 Gitstalk: https://gitstalk.netlify.app/gabrielf11
 
