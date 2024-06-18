@@ -1,4 +1,4 @@
-I mainly use HTML, CSS, JavaScript, and Swift/SwiftUI.
+I mainly (try to) use HTML, CSS, JavaScript, and Swift/SwiftUI.
 
 Gitstalk: https://gitstalk.netlify.app/gabrielf11
 
